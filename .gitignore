@@ -1,0 +1,5 @@
+sample.log
+venv/
+config.py
+.idea/
+*/__pycache__/
